@@ -1,0 +1,3488 @@
+[
+  {
+    "port": "AGARTALA",
+    "year": "2017-18",
+    "quantity": 61,
+    "valueCr": 0.4,
+    "usdM": 0.06
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2017-18",
+    "quantity": 378,
+    "valueCr": 17.33,
+    "usdM": 2.72
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2017-18",
+    "quantity": 52,
+    "valueCr": 2.39,
+    "usdM": 0.38
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2017-18",
+    "quantity": 144235,
+    "valueCr": 1793.41,
+    "usdM": 281.54
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CALICUT",
+    "year": "2017-18",
+    "quantity": 50,
+    "valueCr": 1.15,
+    "usdM": 0.18
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2017-18",
+    "quantity": 48442,
+    "valueCr": 2052.46,
+    "usdM": 322.88
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DELHI",
+    "year": "2017-18",
+    "quantity": 21,
+    "valueCr": 0.79,
+    "usdM": 0.12
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "ENNORE",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GOA",
+    "year": "2017-18",
+    "quantity": 50571,
+    "valueCr": 711.91,
+    "usdM": 111.73
+  },
+  {
+    "port": "HALDIA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2017-18",
+    "quantity": 491,
+    "valueCr": 22.18,
+    "usdM": 3.47
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2017-18",
+    "quantity": 4131,
+    "valueCr": 21.53,
+    "usdM": 3.39
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2017-18",
+    "quantity": 1289,
+    "valueCr": 40.49,
+    "usdM": 6.38
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "JNPT",
+    "year": "2017-18",
+    "quantity": 177752,
+    "valueCr": 4699.1,
+    "usdM": 740.1
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2017-18",
+    "quantity": 2032,
+    "valueCr": 124.66,
+    "usdM": 19.63
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KANDLA",
+    "year": "2017-18",
+    "quantity": 9,
+    "valueCr": 0.55,
+    "usdM": 0.09
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2017-18",
+    "quantity": 50,
+    "valueCr": 0.32,
+    "usdM": 0.05
+  },
+  {
+    "port": "KARWAR",
+    "year": "2017-18",
+    "quantity": 8,
+    "valueCr": 0.88,
+    "usdM": 0.14
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2017-18",
+    "quantity": 14198,
+    "valueCr": 699.46,
+    "usdM": 109.81
+  },
+  {
+    "port": "KOCHI",
+    "year": "2017-18",
+    "quantity": 176090,
+    "valueCr": 5805.11,
+    "usdM": 911.72
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2017-18",
+    "quantity": 98861,
+    "valueCr": 4875.58,
+    "usdM": 765.65
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2017-18",
+    "quantity": 86420,
+    "valueCr": 4773.83,
+    "usdM": 749.65
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MADURAI",
+    "year": "2017-18",
+    "quantity": 33,
+    "valueCr": 1.13,
+    "usdM": 0.18
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2017-18",
+    "quantity": 2327,
+    "valueCr": 12.6,
+    "usdM": 1.98
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MID SEA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2017-18",
+    "quantity": 3052,
+    "valueCr": 206.87,
+    "usdM": 32.44
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2017-18",
+    "quantity": 5476,
+    "valueCr": 152.75,
+    "usdM": 23.95
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2017-18",
+    "quantity": 16,
+    "valueCr": 0.85,
+    "usdM": 0.13
+  },
+  {
+    "port": "OKHA",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2017-18",
+    "quantity": 306181,
+    "valueCr": 4876.2,
+    "usdM": 760.84
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TRICHY",
+    "year": "2017-18",
+    "quantity": 13,
+    "valueCr": 0.82,
+    "usdM": 0.13
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2017-18",
+    "quantity": 2506,
+    "valueCr": 112.76,
+    "usdM": 17.73
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2017-18",
+    "quantity": 51684,
+    "valueCr": 2654.96,
+    "usdM": 417.09
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2017-18",
+    "quantity": 33,
+    "valueCr": 2.03,
+    "usdM": 0.32
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VIZAG",
+    "year": "2017-18",
+    "quantity": 200779,
+    "valueCr": 11442.39,
+    "usdM": 1797.08
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2017-18",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGARTALA",
+    "year": "2018-19",
+    "quantity": 17,
+    "valueCr": 1.01,
+    "usdM": 0.15
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2018-19",
+    "quantity": 270,
+    "valueCr": 18.72,
+    "usdM": 2.66
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2018-19",
+    "quantity": 68,
+    "valueCr": 4.45,
+    "usdM": 0.64
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2018-19",
+    "quantity": 141980,
+    "valueCr": 1886.43,
+    "usdM": 269.26
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2018-19",
+    "quantity": 6,
+    "valueCr": 0.34,
+    "usdM": 0.05
+  },
+  {
+    "port": "CALICUT",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0.01,
+    "usdM": 0
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2018-19",
+    "quantity": 55296,
+    "valueCr": 2040.32,
+    "usdM": 295.4
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DELHI",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "ENNORE",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GOA",
+    "year": "2018-19",
+    "quantity": 37938,
+    "valueCr": 619.67,
+    "usdM": 88.17
+  },
+  {
+    "port": "HALDIA",
+    "year": "2018-19",
+    "quantity": 1357,
+    "valueCr": 74.59,
+    "usdM": 10.66
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2018-19",
+    "quantity": 2312,
+    "valueCr": 121.63,
+    "usdM": 17.22
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2018-19",
+    "quantity": 2815,
+    "valueCr": 18.68,
+    "usdM": 2.7
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2018-19",
+    "quantity": 2548,
+    "valueCr": 55.39,
+    "usdM": 8.11
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "JNPT",
+    "year": "2018-19",
+    "quantity": 158213,
+    "valueCr": 4811.12,
+    "usdM": 694.56
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2018-19",
+    "quantity": 3793,
+    "valueCr": 213.22,
+    "usdM": 31.66
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KANDLA",
+    "year": "2018-19",
+    "quantity": 20,
+    "valueCr": 0.1,
+    "usdM": 0.01
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARWAR",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2018-19",
+    "quantity": 18205,
+    "valueCr": 778.84,
+    "usdM": 112.44
+  },
+  {
+    "port": "KOCHI",
+    "year": "2018-19",
+    "quantity": 180457,
+    "valueCr": 5861.55,
+    "usdM": 845.57
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2018-19",
+    "quantity": 116167,
+    "valueCr": 5227.73,
+    "usdM": 757.13
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2018-19",
+    "quantity": 86248,
+    "valueCr": 4644.12,
+    "usdM": 672.48
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MADURAI",
+    "year": "2018-19",
+    "quantity": 70,
+    "valueCr": 2.91,
+    "usdM": 0.43
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2018-19",
+    "quantity": 166,
+    "valueCr": 1.55,
+    "usdM": 0.22
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MID SEA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2018-19",
+    "quantity": 2633,
+    "valueCr": 309.49,
+    "usdM": 44.61
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2018-19",
+    "quantity": 8889,
+    "valueCr": 217.82,
+    "usdM": 31.51
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OKHA",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2018-19",
+    "quantity": 293835,
+    "valueCr": 4844.03,
+    "usdM": 693.2
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TRICHY",
+    "year": "2018-19",
+    "quantity": 23,
+    "valueCr": 0.65,
+    "usdM": 0.09
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2018-19",
+    "quantity": 2606,
+    "valueCr": 153.14,
+    "usdM": 22.04
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2018-19",
+    "quantity": 55251,
+    "valueCr": 2768.77,
+    "usdM": 401.22
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VIZAG",
+    "year": "2018-19",
+    "quantity": 221374,
+    "valueCr": 11913.07,
+    "usdM": 1726.32
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2018-19",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGARTALA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2019-20",
+    "quantity": 187,
+    "valueCr": 13.74,
+    "usdM": 1.95
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2019-20",
+    "quantity": 184,
+    "valueCr": 8.24,
+    "usdM": 1.18
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2019-20",
+    "quantity": 95757,
+    "valueCr": 1358.89,
+    "usdM": 197.74
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CALICUT",
+    "year": "2019-20",
+    "quantity": 21,
+    "valueCr": 0.35,
+    "usdM": 0.05
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2019-20",
+    "quantity": 51539,
+    "valueCr": 2045.57,
+    "usdM": 292.97
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DELHI",
+    "year": "2019-20",
+    "quantity": 14,
+    "valueCr": 0.16,
+    "usdM": 0.02
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "ENNORE",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2019-20",
+    "quantity": 197,
+    "valueCr": 3.99,
+    "usdM": 0.57
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GOA",
+    "year": "2019-20",
+    "quantity": 14699,
+    "valueCr": 288.5,
+    "usdM": 41.31
+  },
+  {
+    "port": "HALDIA",
+    "year": "2019-20",
+    "quantity": 1025,
+    "valueCr": 56.89,
+    "usdM": 8.06
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2019-20",
+    "quantity": 2687,
+    "valueCr": 145.13,
+    "usdM": 20.74
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2019-20",
+    "quantity": 329,
+    "valueCr": 0.94,
+    "usdM": 0.14
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2019-20",
+    "quantity": 1424,
+    "valueCr": 38.35,
+    "usdM": 5.5
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "JNPT",
+    "year": "2019-20",
+    "quantity": 134766,
+    "valueCr": 4359.71,
+    "usdM": 623.4
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2019-20",
+    "quantity": 8927,
+    "valueCr": 533.37,
+    "usdM": 75.94
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KANDLA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARWAR",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2019-20",
+    "quantity": 26174,
+    "valueCr": 1220.5,
+    "usdM": 174.77
+  },
+  {
+    "port": "KOCHI",
+    "year": "2019-20",
+    "quantity": 146038,
+    "valueCr": 4904.49,
+    "usdM": 700.26
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2019-20",
+    "quantity": 128150,
+    "valueCr": 5308.02,
+    "usdM": 760.9
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2019-20",
+    "quantity": 97708,
+    "valueCr": 5134.31,
+    "usdM": 735.44
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MADURAI",
+    "year": "2019-20",
+    "quantity": 44,
+    "valueCr": 1.76,
+    "usdM": 0.25
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2019-20",
+    "quantity": 315,
+    "valueCr": 3.76,
+    "usdM": 0.55
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MID SEA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2019-20",
+    "quantity": 1464,
+    "valueCr": 176.54,
+    "usdM": 25.22
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2019-20",
+    "quantity": 19431,
+    "valueCr": 303.15,
+    "usdM": 43.36
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OKHA",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2019-20",
+    "quantity": 257402,
+    "valueCr": 4556.19,
+    "usdM": 650.01
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2019-20",
+    "quantity": 15,
+    "valueCr": 1.1,
+    "usdM": 0.16
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2019-20",
+    "quantity": 26,
+    "valueCr": 0.58,
+    "usdM": 0.08
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TRICHY",
+    "year": "2019-20",
+    "quantity": 2,
+    "valueCr": 0.05,
+    "usdM": 0.01
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2019-20",
+    "quantity": 2168,
+    "valueCr": 115.5,
+    "usdM": 16.5
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2019-20",
+    "quantity": 57159,
+    "valueCr": 2942.64,
+    "usdM": 421.04
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2019-20",
+    "quantity": 18,
+    "valueCr": 0.69,
+    "usdM": 0.1
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VIZAG",
+    "year": "2019-20",
+    "quantity": 241783,
+    "valueCr": 13139.73,
+    "usdM": 1880.49
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2019-20",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGARTALA",
+    "year": "2020-21",
+    "quantity": 50,
+    "valueCr": 0.65,
+    "usdM": 0.09
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2020-21",
+    "quantity": 24,
+    "valueCr": 16.59,
+    "usdM": 2.26
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2020-21",
+    "quantity": 175,
+    "valueCr": 7.12,
+    "usdM": 0.96
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2020-21",
+    "quantity": 105278,
+    "valueCr": 1539.45,
+    "usdM": 210.64
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CALICUT",
+    "year": "2020-21",
+    "quantity": 29,
+    "valueCr": 1.1,
+    "usdM": 0.15
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2020-21",
+    "quantity": 68973,
+    "valueCr": 3147.48,
+    "usdM": 430.21
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DELHI",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "ENNORE",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2020-21",
+    "quantity": 195,
+    "valueCr": 4,
+    "usdM": 0.56
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GOA",
+    "year": "2020-21",
+    "quantity": 8241,
+    "valueCr": 160.17,
+    "usdM": 21.92
+  },
+  {
+    "port": "HALDIA",
+    "year": "2020-21",
+    "quantity": 56,
+    "valueCr": 0.24,
+    "usdM": 0.03
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2020-21",
+    "quantity": 2214,
+    "valueCr": 116.5,
+    "usdM": 15.88
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2020-21",
+    "quantity": 716,
+    "valueCr": 4.37,
+    "usdM": 0.59
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2020-21",
+    "quantity": 1204,
+    "valueCr": 50.7,
+    "usdM": 6.93
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "JNPT",
+    "year": "2020-21",
+    "quantity": 104605,
+    "valueCr": 3573.53,
+    "usdM": 487.7
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2020-21",
+    "quantity": 8968,
+    "valueCr": 558.19,
+    "usdM": 75.65
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KANDLA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARWAR",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2020-21",
+    "quantity": 31421,
+    "valueCr": 1533.49,
+    "usdM": 208.91
+  },
+  {
+    "port": "KOCHI",
+    "year": "2020-21",
+    "quantity": 143552,
+    "valueCr": 4994.75,
+    "usdM": 681.04
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2020-21",
+    "quantity": 116419,
+    "valueCr": 5112.77,
+    "usdM": 695.84
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2020-21",
+    "quantity": 64230,
+    "valueCr": 3762.21,
+    "usdM": 511.79
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MADURAI",
+    "year": "2020-21",
+    "quantity": 14,
+    "valueCr": 0.51,
+    "usdM": 0
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2020-21",
+    "quantity": 1572,
+    "valueCr": 18.1,
+    "usdM": 2.5
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MID SEA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2020-21",
+    "quantity": 759,
+    "valueCr": 172.11,
+    "usdM": 23.55
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2020-21",
+    "quantity": 39243,
+    "valueCr": 773.57,
+    "usdM": 106.34
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OKHA",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2020-21",
+    "quantity": 17,
+    "valueCr": 0.77,
+    "usdM": 0.11
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2020-21",
+    "quantity": 185817,
+    "valueCr": 3330.9,
+    "usdM": 454.46
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2020-21",
+    "quantity": 169,
+    "valueCr": 4.48,
+    "usdM": 0.61
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TRICHY",
+    "year": "2020-21",
+    "quantity": 90,
+    "valueCr": 3.64,
+    "usdM": 0.5
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2020-21",
+    "quantity": 1119,
+    "valueCr": 44.04,
+    "usdM": 6.03
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2020-21",
+    "quantity": 47299,
+    "valueCr": 2414.66,
+    "usdM": 328.74
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2020-21",
+    "quantity": 605,
+    "valueCr": 12.17,
+    "usdM": 1.67
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "VIZAG",
+    "year": "2020-21",
+    "quantity": 216457,
+    "valueCr": 12362.71,
+    "usdM": 1681.2
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2020-21",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGARTALA",
+    "year": "2021-22",
+    "quantity": 28,
+    "valueCr": 0.49,
+    "usdM": 0.07
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2021-22",
+    "quantity": 5,
+    "valueCr": 0.76,
+    "usdM": 0.1
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2021-22",
+    "quantity": 679,
+    "valueCr": 9.8,
+    "usdM": 1.34
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2021-22",
+    "quantity": 10,
+    "valueCr": 1.23,
+    "usdM": 0.17
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2021-22",
+    "quantity": 1,
+    "valueCr": 0.02,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2021-22",
+    "quantity": 1053,
+    "valueCr": 20.33,
+    "usdM": 2.73
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2021-22",
+    "quantity": 28,
+    "valueCr": 1.85,
+    "usdM": 0.25
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2021-22",
+    "quantity": 561,
+    "valueCr": 5.51,
+    "usdM": 0.74
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2021-22",
+    "quantity": 92149,
+    "valueCr": 1653.82,
+    "usdM": 224.11
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CALICUT",
+    "year": "2021-22",
+    "quantity": 125,
+    "valueCr": 21.13,
+    "usdM": 0.63
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2021-22",
+    "quantity": 112356,
+    "valueCr": 5947.2,
+    "usdM": 807.86
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2021-22",
+    "quantity": 4758,
+    "valueCr": 230.47,
+    "usdM": 31.23
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2021-22",
+    "quantity": 1,
+    "valueCr": 0.07,
+    "usdM": 0.01
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2021-22",
+    "quantity": 3216,
+    "valueCr": 126.69,
+    "usdM": 17.54
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2021-22",
+    "quantity": 38,
+    "valueCr": 1.04,
+    "usdM": 0
+  },
+  {
+    "port": "DELHI",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "ENNORE",
+    "year": "2021-22",
+    "quantity": 1015,
+    "valueCr": 68.29,
+    "usdM": 9.46
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2021-22",
+    "quantity": 214,
+    "valueCr": 2.24,
+    "usdM": 0.3
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2021-22",
+    "quantity": 12,
+    "valueCr": 0.13,
+    "usdM": 0.02
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2021-22",
+    "quantity": 2027,
+    "valueCr": 19.57,
+    "usdM": 2.63
+  },
+  {
+    "port": "GOA",
+    "year": "2021-22",
+    "quantity": 6679,
+    "valueCr": 112.97,
+    "usdM": 15.31
+  },
+  {
+    "port": "HALDIA",
+    "year": "2021-22",
+    "quantity": 82,
+    "valueCr": 4.18,
+    "usdM": 0.57
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2021-22",
+    "quantity": 2383,
+    "valueCr": 140.67,
+    "usdM": 19.08
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2021-22",
+    "quantity": 2916,
+    "valueCr": 10.13,
+    "usdM": 1.37
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2021-22",
+    "quantity": 1674,
+    "valueCr": 89.17,
+    "usdM": 12.1
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2021-22",
+    "quantity": 36,
+    "valueCr": 1.5,
+    "usdM": 0.2
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2021-22",
+    "quantity": 88,
+    "valueCr": 2.15,
+    "usdM": 0.3
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "JNPT",
+    "year": "2021-22",
+    "quantity": 182046,
+    "valueCr": 5643.81,
+    "usdM": 767.5
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2021-22",
+    "quantity": 175,
+    "valueCr": 1.12,
+    "usdM": 0.15
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2021-22",
+    "quantity": 16,
+    "valueCr": 0.87,
+    "usdM": 0.12
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2021-22",
+    "quantity": 23737,
+    "valueCr": 1644.7,
+    "usdM": 222.37
+  },
+  {
+    "port": "KANDLA",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARWAR",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2021-22",
+    "quantity": 47554,
+    "valueCr": 2605.36,
+    "usdM": 355.02
+  },
+  {
+    "port": "KOCHI",
+    "year": "2021-22",
+    "quantity": 175332,
+    "valueCr": 6167.69,
+    "usdM": 849.57
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2021-22",
+    "quantity": 121339,
+    "valueCr": 6168.78,
+    "usdM": 854.37
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2021-22",
+    "quantity": 4544,
+    "valueCr": 458.39,
+    "usdM": 35.31
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2021-22",
+    "quantity": 28142,
+    "valueCr": 1757.79,
+    "usdM": 239.88
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2021-22",
+    "quantity": 1109,
+    "valueCr": 24.24,
+    "usdM": 3.16
+  },
+  {
+    "port": "MADURAI",
+    "year": "2021-22",
+    "quantity": 4,
+    "valueCr": 0.11,
+    "usdM": 0.01
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2021-22",
+    "quantity": 5085,
+    "valueCr": 61.51,
+    "usdM": 8.32
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2021-22",
+    "quantity": 25,
+    "valueCr": 0.51,
+    "usdM": 0.07
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2021-22",
+    "quantity": 369,
+    "valueCr": 15.97,
+    "usdM": 2.17
+  },
+  {
+    "port": "MID SEA",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2021-22",
+    "quantity": 4201,
+    "valueCr": 234.56,
+    "usdM": 31.81
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2021-22",
+    "quantity": 15,
+    "valueCr": 1.41,
+    "usdM": 0.19
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2021-22",
+    "quantity": 102219,
+    "valueCr": 2928.59,
+    "usdM": 340.88
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2021-22",
+    "quantity": 3737,
+    "valueCr": 162.03,
+    "usdM": 21.98
+  },
+  {
+    "port": "OKHA",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2021-22",
+    "quantity": 25,
+    "valueCr": 0.37,
+    "usdM": 0.05
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2021-22",
+    "quantity": 13,
+    "valueCr": 0.2,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2021-22",
+    "quantity": 88,
+    "valueCr": 0.26,
+    "usdM": 0.04
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2021-22",
+    "quantity": 199,
+    "valueCr": 8.6,
+    "usdM": 1.19
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2021-22",
+    "quantity": 6532,
+    "valueCr": 24.6,
+    "usdM": 3.33
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2021-22",
+    "quantity": 127176,
+    "valueCr": 2150.21,
+    "usdM": 291.5
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2021-22",
+    "quantity": 115,
+    "valueCr": 46.06,
+    "usdM": 0.12
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2021-22",
+    "quantity": 160,
+    "valueCr": 1.63,
+    "usdM": 0.21
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2021-22",
+    "quantity": 33,
+    "valueCr": 1.64,
+    "usdM": 0.22
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2021-22",
+    "quantity": 117,
+    "valueCr": 1.07,
+    "usdM": 0.15
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2021-22",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2021-22",
+    "quantity": 10,
+    "valueCr": 0.27,
+    "usdM": 0.04
+  },
+  {
+    "port": "TRICHY",
+    "year": "2021-22",
+    "quantity": 320,
+    "valueCr": 8.57,
+    "usdM": 1.16
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2021-22",
+    "quantity": 1643,
+    "valueCr": 80.65,
+    "usdM": 10.92
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2021-22",
+    "quantity": 2,
+    "valueCr": 0.23,
+    "usdM": 0.03
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2021-22",
+    "quantity": 52449,
+    "valueCr": 3216.18,
+    "usdM": 437.43
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2021-22",
+    "quantity": 15,
+    "valueCr": 0.36,
+    "usdM": 0.05
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2021-22",
+    "quantity": 94,
+    "valueCr": 0.37,
+    "usdM": 0.05
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2021-22",
+    "quantity": 461,
+    "valueCr": 27.14,
+    "usdM": 3.69
+  },
+  {
+    "port": "VIZAG",
+    "year": "2021-22",
+    "quantity": 247755,
+    "valueCr": 15648.62,
+    "usdM": 2125.55
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2021-22",
+    "quantity": 275,
+    "valueCr": 20.59,
+    "usdM": 2.8
+  },
+  {
+    "port": "AGARTALA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AGRAICD",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "AHEMDABAD ICD",
+    "year": "2022-23",
+    "quantity": 3,
+    "valueCr": 0.16,
+    "usdM": 0.02
+  },
+  {
+    "port": "AHMEDABAD",
+    "year": "2022-23",
+    "quantity": 7,
+    "valueCr": 14.85,
+    "usdM": 1.89
+  },
+  {
+    "port": "ALANGSEA",
+    "year": "2022-23",
+    "quantity": 324,
+    "valueCr": 3.24,
+    "usdM": 0.43
+  },
+  {
+    "port": "AMINGAON ICD",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BALASORE Concor ICD",
+    "year": "2022-23",
+    "quantity": 25,
+    "valueCr": 1.27,
+    "usdM": 0.15
+  },
+  {
+    "port": "BANBASALCS",
+    "year": "2022-23",
+    "quantity": 52,
+    "valueCr": 0.58,
+    "usdM": 0.07
+  },
+  {
+    "port": "BANGALORE",
+    "year": "2022-23",
+    "quantity": 20,
+    "valueCr": 2.19,
+    "usdM": 0.27
+  },
+  {
+    "port": "BANGALORE ICD",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "BANGALORE/ICD",
+    "year": "2022-23",
+    "quantity": 198239,
+    "valueCr": 3173.6,
+    "usdM": 394.99
+  },
+  {
+    "port": "BHUBANESWARAIRPORT",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "CALICUT",
+    "year": "2022-23",
+    "quantity": 102,
+    "valueCr": 3.26,
+    "usdM": 0.41
+  },
+  {
+    "port": "CHENNAI",
+    "year": "2022-23",
+    "quantity": 104604,
+    "valueCr": 5284.52,
+    "usdM": 669
+  },
+  {
+    "port": "CHENNAI AIR CARGO ACC",
+    "year": "2022-23",
+    "quantity": 6580,
+    "valueCr": 397.55,
+    "usdM": 50.06
+  },
+  {
+    "port": "CHETTIPALAYM ICD",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "COCHIN AIR CARGO ACC",
+    "year": "2022-23",
+    "quantity": 2115,
+    "valueCr": 104.17,
+    "usdM": 13.26
+  },
+  {
+    "port": "COCHIN SPECIAL ECONOMIC ZONE- SEZ CARGO",
+    "year": "2022-23",
+    "quantity": 3125,
+    "valueCr": 112.78,
+    "usdM": 14.17
+  },
+  {
+    "port": "CONCOR ICD JHARSUGUDA",
+    "year": "2022-23",
+    "quantity": 27,
+    "valueCr": 0.35,
+    "usdM": 0.04
+  },
+  {
+    "port": "DARRANGA LCS",
+    "year": "2022-23",
+    "quantity": 45,
+    "valueCr": 1.34,
+    "usdM": 0.17
+  },
+  {
+    "port": "DELHI",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "DHARMATAR PORT MUMBAI",
+    "year": "2022-23",
+    "quantity": 25,
+    "valueCr": 0.3,
+    "usdM": 0.04
+  },
+  {
+    "port": "ENNORE",
+    "year": "2022-23",
+    "quantity": 5618,
+    "valueCr": 380.84,
+    "usdM": 48.15
+  },
+  {
+    "port": "GALGALIA",
+    "year": "2022-23",
+    "quantity": 4,
+    "valueCr": 0.06,
+    "usdM": 0.01
+  },
+  {
+    "port": "GHOJADANGA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "GHOJADANGA LC5",
+    "year": "2022-23",
+    "quantity": 1468,
+    "valueCr": 12.96,
+    "usdM": 1.65
+  },
+  {
+    "port": "GOA",
+    "year": "2022-23",
+    "quantity": 2823,
+    "valueCr": 41.82,
+    "usdM": 5.24
+  },
+  {
+    "port": "HALDIA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "HAZIRA",
+    "year": "2022-23",
+    "quantity": 1931,
+    "valueCr": 131.64,
+    "usdM": 16.5
+  },
+  {
+    "port": "HILI LAND CUSTOMS",
+    "year": "2022-23",
+    "quantity": 5142,
+    "valueCr": 17.25,
+    "usdM": 2.18
+  },
+  {
+    "port": "HYDERABAD",
+    "year": "2022-23",
+    "quantity": 1243,
+    "valueCr": 76.99,
+    "usdM": 9.65
+  },
+  {
+    "port": "HYDERABAD ICD",
+    "year": "2022-23",
+    "quantity": 66,
+    "valueCr": 4.01,
+    "usdM": 0.51
+  },
+  {
+    "port": "INDOREACC",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "IRUGURICD",
+    "year": "2022-23",
+    "quantity": 21,
+    "valueCr": 0.09,
+    "usdM": 0.01
+  },
+  {
+    "port": "JNPT",
+    "year": "2022-23",
+    "quantity": 226540,
+    "valueCr": 5892.69,
+    "usdM": 740.66
+  },
+  {
+    "port": "JOGBANI",
+    "year": "2022-23",
+    "quantity": 55,
+    "valueCr": 0.67,
+    "usdM": 0.08
+  },
+  {
+    "port": "KAKINADA",
+    "year": "2022-23",
+    "quantity": 1010,
+    "valueCr": 59.69,
+    "usdM": 7.31
+  },
+  {
+    "port": "KAMARAJAR PORT",
+    "year": "2022-23",
+    "quantity": 29431,
+    "valueCr": 1920.66,
+    "usdM": 245.07
+  },
+  {
+    "port": "KANDLA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARIMGANJ",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KARWAR",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "KATTUPALLI/ENNORE",
+    "year": "2022-23",
+    "quantity": 47888,
+    "valueCr": 2315.37,
+    "usdM": 293.22
+  },
+  {
+    "port": "KOCHI",
+    "year": "2022-23",
+    "quantity": 225230,
+    "valueCr": 7550.48,
+    "usdM": 959.09
+  },
+  {
+    "port": "KOLKATA",
+    "year": "2022-23",
+    "quantity": 125193,
+    "valueCr": 6481.6,
+    "usdM": 838.54
+  },
+  {
+    "port": "KOLKATA ACC -Airport",
+    "year": "2022-23",
+    "quantity": 9129,
+    "valueCr": 526.91,
+    "usdM": 66.19
+  },
+  {
+    "port": "KOLLAM PORT SEA",
+    "year": "2022-23",
+    "quantity": 175,
+    "valueCr": 3.73,
+    "usdM": 0.47
+  },
+  {
+    "port": "KRISHNAPATNAM",
+    "year": "2022-23",
+    "quantity": 18832,
+    "valueCr": 1187.4,
+    "usdM": 149.92
+  },
+  {
+    "port": "LCSJAIGAON",
+    "year": "2022-23",
+    "quantity": 1480,
+    "valueCr": 29.32,
+    "usdM": 3.6
+  },
+  {
+    "port": "MADURAI",
+    "year": "2022-23",
+    "quantity": 16,
+    "valueCr": 0.5,
+    "usdM": 0.06
+  },
+  {
+    "port": "MAHADIPUR",
+    "year": "2022-23",
+    "quantity": 6895,
+    "valueCr": 61.68,
+    "usdM": 7.64
+  },
+  {
+    "port": "MANGALORE AIR CARGO",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MANGALORE SEZ",
+    "year": "2022-23",
+    "quantity": 29609,
+    "valueCr": 585.76,
+    "usdM": 73.21
+  },
+  {
+    "port": "MARRIPALAM ICD",
+    "year": "2022-23",
+    "quantity": 722,
+    "valueCr": 34.72,
+    "usdM": 4.33
+  },
+  {
+    "port": "MID SEA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "MUMBAI",
+    "year": "2022-23",
+    "quantity": 14993,
+    "valueCr": 319.1,
+    "usdM": 40.54
+  },
+  {
+    "port": "MUMBAI CUSTOM HOUSE SEA",
+    "year": "2022-23",
+    "quantity": 25,
+    "valueCr": 0.39,
+    "usdM": 0.05
+  },
+  {
+    "port": "MUNDRA",
+    "year": "2022-23",
+    "quantity": 87105,
+    "valueCr": 2407.42,
+    "usdM": 303.4
+  },
+  {
+    "port": "NAVLAKHI PORT",
+    "year": "2022-23",
+    "quantity": 26,
+    "valueCr": 0.58,
+    "usdM": 0
+  },
+  {
+    "port": "NSICT",
+    "year": "2022-23",
+    "quantity": 25627,
+    "valueCr": 863.8,
+    "usdM": 108.25
+  },
+  {
+    "port": "OKHA",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "OLD MUNDRA PORT",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PANITANKI-NAXALBARI",
+    "year": "2022-23",
+    "quantity": 184,
+    "valueCr": 0.79,
+    "usdM": 0.1
+  },
+  {
+    "port": "PARADEEP",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "PETRAPOLE",
+    "year": "2022-23",
+    "quantity": 15773,
+    "valueCr": 46.85,
+    "usdM": 5.86
+  },
+  {
+    "port": "PIPAVAV",
+    "year": "2022-23",
+    "quantity": 195739,
+    "valueCr": 3309.57,
+    "usdM": 413.7
+  },
+  {
+    "port": "PORBANDAR",
+    "year": "2022-23",
+    "quantity": 15,
+    "valueCr": 0.35,
+    "usdM": 0.04
+  },
+  {
+    "port": "PORT BLAIR",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "RAXAUL",
+    "year": "2022-23",
+    "quantity": 431,
+    "valueCr": 4.48,
+    "usdM": 0.57
+  },
+  {
+    "port": "SONAULI LCS",
+    "year": "2022-23",
+    "quantity": 52,
+    "valueCr": 0.73,
+    "usdM": 0.09
+  },
+  {
+    "port": "SURUT (INHZA)",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "SUTARKANDI LCS",
+    "year": "2022-23",
+    "quantity": 172,
+    "valueCr": 1.3,
+    "usdM": 0.17
+  },
+  {
+    "port": "THAR DRY PORT ICD/ AHMEDABAD GUJARAT ICD",
+    "year": "2022-23",
+    "quantity": 25,
+    "valueCr": 0.23,
+    "usdM": 0.03
+  },
+  {
+    "port": "TONDIAPET ICD",
+    "year": "2022-23",
+    "quantity": 10,
+    "valueCr": 0.03,
+    "usdM": 0
+  },
+  {
+    "port": "TRICHY",
+    "year": "2022-23",
+    "quantity": 311,
+    "valueCr": 9.2,
+    "usdM": 1.16
+  },
+  {
+    "port": "TRIVANDRUM",
+    "year": "2022-23",
+    "quantity": 1743,
+    "valueCr": 112.33,
+    "usdM": 14.09
+  },
+  {
+    "port": "TUGLAKABAD ICD",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  },
+  {
+    "port": "TUTICORIN",
+    "year": "2022-23",
+    "quantity": 72780,
+    "valueCr": 3587.52,
+    "usdM": 453.21
+  },
+  {
+    "port": "TUTICORIN ICD",
+    "year": "2022-23",
+    "quantity": 43,
+    "valueCr": 1.31,
+    "usdM": 0.16
+  },
+  {
+    "port": "VERAVAL",
+    "year": "2022-23",
+    "quantity": 26,
+    "valueCr": 0.09,
+    "usdM": 0.01
+  },
+  {
+    "port": "VISHAKHAPATNAM AIR CARGO",
+    "year": "2022-23",
+    "quantity": 180,
+    "valueCr": 9.16,
+    "usdM": 1.18
+  },
+  {
+    "port": "VIZAG",
+    "year": "2022-23",
+    "quantity": 264214,
+    "valueCr": 16876.93,
+    "usdM": 2133.35
+  },
+  {
+    "port": "VIZIANAGARAM",
+    "year": "2022-23",
+    "quantity": 0,
+    "valueCr": 0,
+    "usdM": 0
+  }
+]

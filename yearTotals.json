@@ -1,0 +1,38 @@
+[
+  {
+    "year": "2017-18",
+    "totalQuantity": 1377241,
+    "totalValueCr": 45106.88999999999,
+    "totalUsdM": 7081.5599999999995
+  },
+  {
+    "year": "2018-19",
+    "totalQuantity": 1392557,
+    "totalValueCr": 46589.35,
+    "totalUsdM": 6728.51
+  },
+  {
+    "year": "2019-20",
+    "totalQuantity": 1289653,
+    "totalValueCr": 46662.84,
+    "totalUsdM": 6678.71
+  },
+  {
+    "year": "2020-21",
+    "totalQuantity": 1149511,
+    "totalValueCr": 43720.969999999994,
+    "totalUsdM": 5956.860000000001
+  },
+  {
+    "year": "2021-22",
+    "totalQuantity": 1369265,
+    "totalValueCr": 57586.47,
+    "totalUsdM": 7759.53
+  },
+  {
+    "year": "2022-23",
+    "totalQuantity": 1735288,
+    "totalValueCr": 63969.16000000001,
+    "totalUsdM": 8094.220000000001
+  }
+]
