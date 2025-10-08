@@ -1,338 +1,338 @@
 [
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2017-18",
-    "quantity": 85651.0,
-    "valueCr": 2846.3,
-    "usdM": 445.27
+    "quantity": 565980,
+    "valueCr": 30868.17,
+    "usdM": 4848.19
   },
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2018-19",
-    "quantity": 84080.0,
-    "valueCr": 2919.75,
-    "usdM": 423.27
+    "quantity": 614145,
+    "valueCr": 31800.51,
+    "usdM": 4610.59
   },
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2019-20",
-    "quantity": 78507.0,
-    "valueCr": 2920.28,
-    "usdM": 422.24
+    "quantity": 652253,
+    "valueCr": 34152.03,
+    "usdM": 4889.12
   },
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2020-21",
-    "quantity": 86814.0,
-    "valueCr": 3033.36,
-    "usdM": 412.11
+    "quantity": 590275,
+    "valueCr": 32520.29,
+    "usdM": 4426.19
   },
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2021-22",
-    "quantity": 90308.0,
-    "valueCr": 3242.94,
-    "usdM": 440.77
+    "quantity": 728123,
+    "valueCr": 42706.04,
+    "usdM": 5828.59
   },
   {
-    "item": "JAPAN",
+    "item": "FROZEN SHRIMP",
     "year": "2022-23",
-    "quantity": 109199.0,
-    "valueCr": 3846.9,
-    "usdM": 484.79
+    "quantity": 711099,
+    "valueCr": 43135.58,
+    "usdM": 5481.63
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2017-18",
-    "quantity": 247780.0,
-    "valueCr": 14769.83,
-    "usdM": 2320.05
+    "quantity": 353192,
+    "valueCr": 4674.03,
+    "usdM": 733.17
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2018-19",
-    "quantity": 281913.0,
-    "valueCr": 16220.0,
-    "usdM": 2344.43
+    "quantity": 338933,
+    "valueCr": 4916.82,
+    "usdM": 699.09
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2019-20",
-    "quantity": 305178.0,
-    "valueCr": 17904.37,
-    "usdM": 2562.54
+    "quantity": 223318,
+    "valueCr": 3610.01,
+    "usdM": 513.6
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2020-21",
-    "quantity": 291948.0,
-    "valueCr": 17990.4,
-    "usdM": 2451.04
+    "quantity": 188130,
+    "valueCr": 2941.65,
+    "usdM": 402.31
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2021-22",
-    "quantity": 372611.0,
-    "valueCr": 24603.34,
-    "usdM": 3371.66
+    "quantity": 226586,
+    "valueCr": 3471.91,
+    "usdM": 471.45
   },
   {
-    "item": "USA",
+    "item": "FROZEN FISH",
     "year": "2022-23",
-    "quantity": 306334.0,
-    "valueCr": 20600.35,
-    "usdM": 2632.08
+    "quantity": 368549,
+    "valueCr": 5503.18,
+    "usdM": 687.05
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2017-18",
-    "quantity": 190314.0,
-    "valueCr": 7115.96,
-    "usdM": 1116.74
+    "quantity": 69183,
+    "valueCr": 2356.46,
+    "usdM": 369.88
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2018-19",
-    "quantity": 165571.0,
-    "valueCr": 6256.2,
-    "usdM": 900.5
+    "quantity": 60210,
+    "valueCr": 1975.97,
+    "usdM": 282.29
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2019-20",
-    "quantity": 165773.0,
-    "valueCr": 6136.71,
-    "usdM": 876.47
+    "quantity": 70906,
+    "valueCr": 2009.79,
+    "usdM": 286.4
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2020-21",
-    "quantity": 152770.0,
-    "valueCr": 6022.83,
-    "usdM": 821.83
+    "quantity": 59292,
+    "valueCr": 1626.34,
+    "usdM": 221.97
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2021-22",
-    "quantity": 198484.0,
-    "valueCr": 8570.05,
-    "usdM": 1162.17
+    "quantity": 58992,
+    "valueCr": 2062.63,
+    "usdM": 280.08
   },
   {
-    "item": "EUROPEAN",
+    "item": "FR CUTTLE FISH",
     "year": "2022-23",
-    "quantity": 207976.0,
-    "valueCr": 10018.38,
-    "usdM": 1263.71
+    "quantity": 54919,
+    "valueCr": 2353.34,
+    "usdM": 295.49
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2017-18",
-    "quantity": 49701.0,
-    "valueCr": 1448.03,
-    "usdM": 227.39
+    "quantity": 100845,
+    "valueCr": 2451.87,
+    "usdM": 385.01
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2018-19",
-    "quantity": 225519.0,
-    "valueCr": 5672.76,
-    "usdM": 811.14
+    "quantity": 101101,
+    "valueCr": 2506.99,
+    "usdM": 359.71
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2019-20",
-    "quantity": 329479.0,
-    "valueCr": 9617.44,
-    "usdM": 1374.63
+    "quantity": 87631,
+    "valueCr": 2196.59,
+    "usdM": 314.23
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2020-21",
-    "quantity": 218343.0,
-    "valueCr": 6908.63,
-    "usdM": 939.17
+    "quantity": 61176,
+    "valueCr": 1998.9,
+    "usdM": 273.37
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2021-22",
-    "quantity": 266989.0,
-    "valueCr": 9056.7,
-    "usdM": 1175.05
+    "quantity": 75750,
+    "valueCr": 2806.09,
+    "usdM": 383.37
   },
   {
-    "item": "CHINA",
+    "item": "FR SQUID",
     "year": "2022-23",
-    "quantity": 405547.0,
-    "valueCr": 11956.91,
-    "usdM": 1508.43
+    "quantity": 83846,
+    "valueCr": 3593.75,
+    "usdM": 454.61
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2017-18",
-    "quantity": 616707.0,
-    "valueCr": 14250.26,
-    "usdM": 2237.07
+    "quantity": 88997,
+    "valueCr": 1042.37,
+    "usdM": 163.53
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2018-19",
-    "quantity": 446966.0,
-    "valueCr": 10561.31,
-    "usdM": 1531.53
+    "quantity": 95296,
+    "valueCr": 1323.45,
+    "usdM": 189.58
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2019-20",
-    "quantity": 223398.0,
-    "valueCr": 4929.9,
-    "usdM": 705.99
+    "quantity": 84417,
+    "valueCr": 981.5,
+    "usdM": 140.81
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2020-21",
-    "quantity": 217710.0,
-    "valueCr": 4876.05,
-    "usdM": 665.6
+    "quantity": 85661,
+    "valueCr": 1148.38,
+    "usdM": 156.94
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2021-22",
-    "quantity": 243401.0,
-    "valueCr": 5747.98,
-    "usdM": 779.28
+    "quantity": 73679,
+    "valueCr": 1472.98,
+    "usdM": 143.46
   },
   {
-    "item": "SOUTHEAST",
+    "item": "DRIED ITEM",
     "year": "2022-23",
-    "quantity": 431774.0,
-    "valueCr": 9494.02,
-    "usdM": 1191.25
+    "quantity": 252918,
+    "valueCr": 3080.92,
+    "usdM": 384.05
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2017-18",
-    "quantity": 62220.0,
-    "valueCr": 1849.1,
-    "usdM": 290.46
+    "quantity": 7034,
+    "valueCr": 286.11,
+    "usdM": 45.41
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2018-19",
-    "quantity": 60232.0,
-    "valueCr": 1979.34,
-    "usdM": 286.3
+    "quantity": 10179,
+    "valueCr": 388.88,
+    "usdM": 55.89
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2019-20",
-    "quantity": 57387.0,
-    "valueCr": 2079.12,
-    "usdM": 297.23
+    "quantity": 7287,
+    "valueCr": 324.26,
+    "usdM": 46.43
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2020-21",
-    "quantity": 48606.0,
-    "valueCr": 1843.39,
-    "usdM": 251.13
+    "quantity": 4379,
+    "valueCr": 239.69,
+    "usdM": 32.72
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2021-22",
-    "quantity": 58426.0,
-    "valueCr": 2235.53,
-    "usdM": 303.12
+    "quantity": 7032,
+    "valueCr": 353.36,
+    "usdM": 47.98
   },
   {
-    "item": "MIDDLE",
+    "item": "LIVE ITEMS",
     "year": "2022-23",
-    "quantity": 77677.0,
-    "valueCr": 2623.05,
-    "usdM": 330.68
+    "quantity": 7824,
+    "valueCr": 440.06,
+    "usdM": 55.47
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2017-18",
+    "quantity": 19501,
+    "valueCr": 647.41,
+    "usdM": 101.78
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2018-19",
+    "quantity": 17207,
+    "valueCr": 616.22,
+    "usdM": 89.2
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2019-20",
+    "quantity": 21202,
+    "valueCr": 631.84,
+    "usdM": 90.34
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2020-21",
+    "quantity": 17622,
+    "valueCr": 477.99,
+    "usdM": 65.14
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2021-22",
+    "quantity": 21689,
+    "valueCr": 733.47,
+    "usdM": 63.92
+  },
+  {
+    "item": "CHILLED ITEMS",
+    "year": "2022-23",
+    "quantity": 24428,
+    "valueCr": 616.29,
+    "usdM": 77.17
   },
   {
     "item": "OTHERS",
     "year": "2017-18",
-    "quantity": 124871.0,
-    "valueCr": 2827.4,
-    "usdM": 444.57
+    "quantity": 172512,
+    "valueCr": 2780.48,
+    "usdM": 434.58
   },
   {
     "item": "OTHERS",
     "year": "2018-19",
-    "quantity": 128278.0,
-    "valueCr": 2980.02,
-    "usdM": 431.33
+    "quantity": 155487,
+    "valueCr": 3060.53,
+    "usdM": 442.16
   },
   {
     "item": "OTHERS",
     "year": "2019-20",
-    "quantity": 129929.0,
-    "valueCr": 3075.03,
-    "usdM": 439.6
+    "quantity": 142638,
+    "valueCr": 2756.84,
+    "usdM": 397.77
   },
   {
     "item": "OTHERS",
     "year": "2020-21",
-    "quantity": 133319.0,
-    "valueCr": 3046.32,
-    "usdM": 416.05
+    "quantity": 142975,
+    "valueCr": 2767.74,
+    "usdM": 378.3
   },
   {
     "item": "OTHERS",
     "year": "2021-22",
-    "quantity": 139045.0,
-    "valueCr": 4129.95,
-    "usdM": 527.53
+    "quantity": 177414,
+    "valueCr": 3979.99,
+    "usdM": 540.73
   },
   {
     "item": "OTHERS",
     "year": "2022-23",
-    "quantity": 196780.0,
-    "valueCr": 5429.53,
-    "usdM": 683.38
-  },
-  {
-    "item": "TOTAL",
-    "year": "2017-18",
-    "quantity": 1377244.0,
-    "valueCr": 45106.89,
-    "usdM": 7081.55
-  },
-  {
-    "item": "TOTAL",
-    "year": "2018-19",
-    "quantity": 1392559.0,
-    "valueCr": 46589.37,
-    "usdM": 6728.5
-  },
-  {
-    "item": "TOTAL",
-    "year": "2019-20",
-    "quantity": 1289651.0,
-    "valueCr": 46662.85,
-    "usdM": 6678.69
-  },
-  {
-    "item": "TOTAL",
-    "year": "2020-21",
-    "quantity": 1149510.0,
-    "valueCr": 43720.98,
-    "usdM": 5956.93
-  },
-  {
-    "item": "TOTAL",
-    "year": "2021-22",
-    "quantity": 1369264.0,
-    "valueCr": 57586.48,
-    "usdM": 7759.58
-  },
-  {
-    "item": "TOTAL",
-    "year": "2022-23",
-    "quantity": 1735286.0,
-    "valueCr": 63969.14,
-    "usdM": 8094.31
+    "quantity": 231703,
+    "valueCr": 5246.03,
+    "usdM": 658.84
   }
 ]
