@@ -313,26 +313,5 @@
     "quantity": 1289651.0,
     "valueCr": 46662.85,
     "usdM": 6678.69
-  },
-  {
-    "market": "TOTAL",
-    "year": "2020-21",
-    "quantity": 1149510.0,
-    "valueCr": 43720.98,
-    "usdM": 5956.93
-  },
-  {
-    "market": "TOTAL",
-    "year": "2021-22",
-    "quantity": 1369264.0,
-    "valueCr": 57586.48,
-    "usdM": 7759.58
-  },
-  {
-    "market": "TOTAL",
-    "year": "2022-23",
-    "quantity": 1735286.0,
-    "valueCr": 63969.14,
-    "usdM": 8094.31
   }
 ]
